@@ -3,7 +3,7 @@ description: unlock Sporeplanet
 planet: sporus
 health: 69420
 itemCapacity: 69420
-size: 1
+size: 3
 unitType: vela
 unitCapModifier: 69420
 research: {
