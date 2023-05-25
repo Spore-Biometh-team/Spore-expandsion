@@ -11,8 +11,4 @@ objectives: [
       preset: groundZero
     }
   ]
-requirements: [
-    copper/69
-    lead/420
-]
 }
