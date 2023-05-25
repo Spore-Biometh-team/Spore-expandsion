@@ -67,12 +67,6 @@ cloudMesh: {
   radMin: 600
   radMax: 600
 
-  # Terrain generation chances, in order: ice > carbon > beryl > ferric.
-  iceChance: 0.5
-  carbonChance: 1
-  berylChance: 0
-  ferricChance: 0
-}
 # This determines the size of the sector grid.
 # Fun fact: The console will warn you about this "unknown" field, but it also functions properly at the same time.
 sectorSize: 2
