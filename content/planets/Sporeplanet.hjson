@@ -133,5 +133,5 @@ solarSystem: sun
 launchCandidates: []
 # Items not available in this planet.
 hiddenItems: [
-  beryllium, carbine, tungsten, oxide
+  beryllium, carbide, tungsten, oxide
 ]
