@@ -1,14 +1,7 @@
-name: DINGUS
-sector: 8
+localizedName: "Beast cave"
+description: "Cave of the hidden one"
 planet: Sporeplanet
-difficulty: 10
-enemyBase: false
-research: {
-parent: key
-objectives: [
-    {
-      type: SectorComplete
-      preset: groundZero
-    }
-  ]
-}
+sector: 4
+captureWave: 30
+research: key
+alwaysUnlocked: true
