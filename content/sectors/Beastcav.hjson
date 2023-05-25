@@ -3,7 +3,13 @@ sector: 195
 planet: Sporeplanet
 difficulty: 10
 enemyBase: false
-parent: ground-zero
+parent: key
+objectives: [
+    {
+      type: SectorComplete
+      preset: groundZero
+    }
+  ]
 requirements: [
     copper/69
     lead/420
