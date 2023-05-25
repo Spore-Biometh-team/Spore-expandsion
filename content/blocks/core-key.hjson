@@ -1,5 +1,6 @@
+name: key
+description: "GUYS WE FOUND IT, WE FOUND THE KEY"
 type: CoreBlock
-description: unlock Sporeplanet
 planet: sporus
 health: 69420
 itemCapacity: 69420

@@ -1,7 +1,12 @@
 localizedName: "Beast cave"
 description: "Cave of the hidden one"
 planet: sporus
-sector: 0
+sector: 92
 captureWave: 30
-research: core-key
+research: Overski
 alwaysUnlocked: true
+difficulty: 10
+  allowLaunchLoadout: true
+  allowLaunchSchematics: true
+  addStartingItems: true
+  overrideLaunchDefaults: true
