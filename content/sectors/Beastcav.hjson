@@ -3,5 +3,4 @@ description: "Cave of the hidden one"
 planet: sporus
 sector: 4
 captureWave: 30
-research: sporepod-hatchery
 alwaysUnlocked: true
