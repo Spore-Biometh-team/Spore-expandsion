@@ -93,14 +93,14 @@ radius: 1
 # Minimum camera zoom.
 minZoom: 0.5
 # Whether to draw the orbit.
-drawOrbit: false
+drawOrbit: true
 # Atmosphere offset.
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
 # Whether this can be landed on.
 accessible: true
 # Toggle day-night cycle.
-updateLighting: false
+updateLighting: true
 # A number used for sector generation. If it equals to -1, planet ID is picked instead.
 sectorSeed: 529
 # Whether this planet is blooming.
@@ -112,7 +112,7 @@ atmosphereColor: aaaaaaaa
 # The color of the planet's icon displayed in top-left dialog.
 iconColor: 29302b
 # Another self-explanatory field...
-hasAtmosphere: false
+hasAtmosphere: true
 # Whether simulate waves when off-planet
 allowWaveSimulation: true
 # Whether sectors are reset when a player loses them
@@ -133,5 +133,5 @@ solarSystem: sun
 launchCandidates: []
 # Items not available in this planet.
 hiddenItems: [
-  graphite, plastanium, phase-fabric
+  beryllium, carbine, tungsten, oxide
 ]

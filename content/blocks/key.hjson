@@ -1,0 +1,15 @@
+type: CoreBlock
+description: unlock Sporeplanet
+planet: Sporeplanet
+health: 69420
+itemCapacity: 69420
+size: 1
+unitType: vela
+unitCapModifier: 69420
+research: {
+root: true
+name: "Sporus"
+requiresUnlock: false
+planet: Sporeplanet
+}
+researchCostMultiplier: 0
