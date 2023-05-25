@@ -1,0 +1,9 @@
+name: sporex
+displayName: Spore biometh plus
+author: Water molecues
+description: Expansion for spore biometh
+version: 1
+minGameVersion: 144
+dependencies: [
+  sporepod
+]
