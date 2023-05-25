@@ -3,6 +3,7 @@ sector: 195
 planet: Sporeplanet
 difficulty: 10
 enemyBase: false
+research: {
 parent: key
 objectives: [
     {
@@ -14,3 +15,4 @@ requirements: [
     copper/69
     lead/420
 ]
+}
