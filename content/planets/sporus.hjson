@@ -51,6 +51,13 @@ cloudMesh: {
   # Maximum number threshold for the noise.
   thresh: 0.4
 }
+generator:{
+  generator: erekirPlanetGenerator
+  sectorSize: 2
+  SectorPreset: 2
+  atmosphereRadIn: 0
+  atmosphereRadOut: 0.3
+}
 
   # Noise properties.
   octaves: 2
