@@ -1,12 +1,12 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: Sporeplanet
+localizedName: sporus
 description: plant
 # The mesh of the planet. Only NoiseMesh is still supported...
 mesh: {
   # A class name.
   type: NoiseMesh
   # A planet to apply this mesh to.
-  planet: Sporeplanet
+  planet: sporus
   # A number used for mesh generation.
   seed: 41928381
   # Mesh "quality". More divisions = more hexagons.
@@ -31,7 +31,7 @@ cloudMesh: {
   # A class name.
   type: HexSkyMesh
   # A planet to apply this mesh to.
-  planet: Sporeplanet
+  planet: sporus
   # A number used for cloud generation.
   seed: 214182
   # Cloud move speed.
