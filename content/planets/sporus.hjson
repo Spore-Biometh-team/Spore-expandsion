@@ -69,7 +69,7 @@ cloudMesh: {
 
 # This determines the size of the sector grid.
 # Fun fact: The console will warn you about this "unknown" field, but it also functions properly at the same time.
-sectorSize: 2
+sectorSize: 3.5
 # Spacing between a parent (this) and satellites.
 orbitSpacing: 12
 # Radius of this planet's sphere.
@@ -86,7 +86,7 @@ accessible: true
 # Toggle day-night cycle.
 updateLighting: true
 # A number used for sector generation. If it equals to -1, planet ID is picked instead.
-sectorSeed: 529
+sectorSeed: 5291234
 # Whether this planet is blooming.
 bloom: false
 # This is self-explanatory...
@@ -106,7 +106,7 @@ allowWaves: true
 # Icon's name displayed in top-left dialog.
 icon: planet
 # Default core block for launch loadouts
-defaultCore: core-nucleus
+defaultCore: sporepod-hatchery
 # The parent of the planet
 parent: erekir
 # The parent of the whole solar system the planet is in. Affects lighting.
