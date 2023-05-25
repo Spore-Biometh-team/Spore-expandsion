@@ -8,7 +8,7 @@ unitType: vela
 unitCapModifier: 69420
 research: {
 root: true
-name: "Sporus"
+name: "Sporeplanet"
 requiresUnlock: false
 planet: Sporeplanet
 }
