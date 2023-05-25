@@ -3,4 +3,4 @@ sector: 195
 planet: Sporeplanet
 difficulty: 10
 enemyBase: false
-parent: key
+parent: ground-zero
