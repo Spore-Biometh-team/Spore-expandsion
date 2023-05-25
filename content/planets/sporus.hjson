@@ -106,7 +106,7 @@ allowWaves: true
 # Icon's name displayed in top-left dialog.
 icon: planet
 # Default core block for launch loadouts
-defaultCore: sporepod-hatchery
+defaultCore: sporepod-SporeCore
 # The parent of the planet
 parent: erekir
 # The parent of the whole solar system the planet is in. Affects lighting.
