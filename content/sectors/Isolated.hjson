@@ -8,7 +8,7 @@ parent: Overski
 objectives: [
 {
 type: SectorComplete
-preset: Overski
+preset: "Overski"
 }
 ]
 } 
