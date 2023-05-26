@@ -14,5 +14,6 @@ preset: "Overski"
 } 
 enemyBase: true
   allowLaunchLoadout: true
+  addStartingItems: false
   allowLaunchSchematics: true
   overrideLaunchDefaults: true
