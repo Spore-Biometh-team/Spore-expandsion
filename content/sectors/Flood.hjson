@@ -1,0 +1,8 @@
+localizedName: "Flooded"
+description: "A flooded valley with almost no sign of enemies, perfect for testing our weapon."
+planet: sporus
+sector: 181
+captureWave: 25
+research: sporepod-Sporecore
+alwaysUnlocked: true
+difficulty: 2

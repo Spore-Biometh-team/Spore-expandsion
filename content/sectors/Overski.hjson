@@ -6,7 +6,3 @@ captureWave: 25
 research: core-key
 alwaysUnlocked: true
 difficulty: 4
-  allowLaunchLoadout: true
-  allowLaunchSchematics: true
-  addStartingItems: true
-  overrideLaunchDefaults: true

@@ -1,19 +1,18 @@
-localizedName: "Beast cave"
-description: "Cave of the hidden one"
+localizedName: "Infested desert"
+description: "A colony of zerg is living in this area, eradicate them before it's too late."
 planet: sporus
-sector: 92
-captureWave: 30
+sector: 175
 research: {
-parent: "Overski"
+parent: "Beastcav"
 objectives: [
     {
       type: SectorComplete
-      preset: "Overski"
+      preset: "Beastcav"
     }
   ]
 }
 alwaysUnlocked: false
-difficulty: 10
+difficulty: 4
   allowLaunchLoadout: true
   allowLaunchSchematics: true
   addStartingItems: true
