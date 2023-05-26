@@ -11,7 +11,7 @@ preset: Beastcav
 }
 {
 type: Research
-content: Sporepod-Guardian
+content: sporepod-Guardian
 }
 ]
 } 
