@@ -1,19 +1,18 @@
-localizedName: "Infested desert"
-description: "A colony of zerg is living in this area, eradicate them before it's too late."
 planet: sporus
+localizedName: "Infested desert"
+description: "An infested desert with active enemies force, eradicate them and research their technology."
 sector: 42
-enemyBase: true
+difficulty: 4
 research: {
-parent: Beastcav
+parent: Overski
 objectives: [
 {
 type: SectorComplete
-preset: Beastcav
+preset: Overski
 }
 ]
 } 
-alwaysUnlocked: false
-difficulty: 4
+enemyBase: true
   allowLaunchLoadout: true
   allowLaunchSchematics: true
   addStartingItems: true

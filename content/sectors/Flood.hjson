@@ -12,7 +12,7 @@ preset: Overski
 }
 ]
 } 
-alwaysUnlocked: true
+alwaysUnlocked: false
 difficulty: 2
   allowLaunchLoadout: true
   allowLaunchSchematics: true
