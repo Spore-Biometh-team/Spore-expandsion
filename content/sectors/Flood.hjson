@@ -6,3 +6,7 @@ captureWave: 25
 research: Overski
 alwaysUnlocked: true
 difficulty: 2
+  allowLaunchLoadout: true
+  allowLaunchSchematics: true
+  addStartingItems: true
+  overrideLaunchDefaults: true
