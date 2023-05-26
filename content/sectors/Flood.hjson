@@ -1,7 +1,7 @@
 localizedName: "Flooded"
 description: "A flooded valley with almost no sign of enemies, perfect for testing our weapon."
 planet: sporus
-sector: 181
+sector: 121
 captureWave: 25
 research: Overski
 alwaysUnlocked: true
