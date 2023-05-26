@@ -1,17 +1,14 @@
 localizedName: "Infested desert"
 description: "A colony of zerg is living in this area, eradicate them before it's too late."
 planet: sporus
-sector: 91
+sector: 42
+enemyBase: true
 research: {
 parent: Beastcav
 objectives: [
 {
 type: SectorComplete
 preset: Beastcav
-}
-{
-type: Research
-content: scatter
 }
 ]
 } 

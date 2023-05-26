@@ -10,10 +10,6 @@ objectives: [
 type: SectorComplete
 preset: Overski
 }
-{
-type: Research
-content: swarmer
-}
 ]
 } 
 alwaysUnlocked: true
