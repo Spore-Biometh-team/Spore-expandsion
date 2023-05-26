@@ -3,7 +3,19 @@ description: "A flooded valley with almost no sign of enemies, perfect for testi
 planet: sporus
 sector: 121
 captureWave: 15
-research: Overski
+research: {
+parent: Overski
+objectives: [
+{
+type: SectorComplete
+preset: Overski
+}
+{
+type: Research
+content: Sporepod-Spore_garrison
+}
+]
+} 
 alwaysUnlocked: true
 difficulty: 2
   allowLaunchLoadout: true

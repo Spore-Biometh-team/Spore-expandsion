@@ -3,14 +3,18 @@ description: "A colony of zerg is living in this area, eradicate them before it'
 planet: sporus
 sector: 91
 research: {
-parent: "Beastcav"
+parent: Beastcav
 objectives: [
-    {
-      type: SectorComplete
-      preset: "Beastcav"
-    }
-  ]
+{
+type: SectorComplete
+preset: Beastcav
 }
+{
+type: Research
+content: Sporepod-Drone
+}
+]
+} 
 alwaysUnlocked: false
 difficulty: 4
   allowLaunchLoadout: true
