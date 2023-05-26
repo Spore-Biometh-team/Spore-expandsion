@@ -3,6 +3,6 @@ description: "A flooded valley with almost no sign of enemies, perfect for testi
 planet: sporus
 sector: 181
 captureWave: 25
-research: sporepod-Sporecore
+research: Overski
 alwaysUnlocked: true
 difficulty: 2
