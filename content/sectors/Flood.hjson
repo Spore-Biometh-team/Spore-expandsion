@@ -12,7 +12,7 @@ preset: Overski
 }
 {
 type: Research
-content: sporepod-Drone
+content: swarmer
 }
 ]
 } 
