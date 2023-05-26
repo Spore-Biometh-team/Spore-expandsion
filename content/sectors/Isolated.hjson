@@ -16,4 +16,3 @@ enemyBase: true
   allowLaunchLoadout: true
   allowLaunchSchematics: true
   addStartingItems: true
-  overrideLaunchDefaults: true
