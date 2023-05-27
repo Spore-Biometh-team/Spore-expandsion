@@ -118,6 +118,11 @@ icon: planet
 defaultCore: core-shard
 # The parent of the planet
 parent: erekir
+#Allow louadout
+  allowLaunchLoadout: true
+  addStartingItems: false
+  allowLaunchSchematics: true
+  overrideLaunchDefaults: true
 # The parent of the whole solar system the planet is in. Affects lighting.
 solarSystem: sun
 # Items not available in this planet.
