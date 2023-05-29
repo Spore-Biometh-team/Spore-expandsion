@@ -1,7 +1,7 @@
 planet: sporus
 localizedName: "Over the ski"
 description: "Enemies rain hell from above, prepare your anti air and watch them fall."
-sector: 71
+sector: 96
 difficulty: 6
 research: core-key
 enemyBase: true
