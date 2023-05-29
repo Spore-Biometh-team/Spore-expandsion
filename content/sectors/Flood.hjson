@@ -16,5 +16,3 @@ alwaysUnlocked: false
 difficulty: 2
   allowLaunchLoadout: true
   allowLaunchSchematics: true
-  addStartingItems: true
-  overrideLaunchDefaults: true
