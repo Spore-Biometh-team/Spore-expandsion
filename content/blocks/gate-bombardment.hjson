@@ -11,7 +11,7 @@ research: "Isolated"
 requirements: [
 sporepod-biomass/350
 ]
-researchCostMultiplier: 1
+researchCostMultiplier: 0.15
 research: {
 parent: Isolated
 objectives: [
