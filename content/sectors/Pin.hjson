@@ -1,0 +1,17 @@
+planet: sporus
+localizedName: "Pinned"
+description: "Your core have been pinned down by nearby enemies force, eradicate them and find the next base."
+sector: 71
+difficulty: 6
+research: {
+parent: gate-bombardment
+objectives: [
+{
+type: SectorComplete
+preset: "Isolated"
+}
+]
+} 
+enemyBase: true
+  allowLaunchLoadout: true,
+  allowLaunchSchematics: true,

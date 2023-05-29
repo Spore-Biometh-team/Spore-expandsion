@@ -1,17 +1,9 @@
 planet: sporus
-localizedName: "Pinned"
-description: "Your core have been pinned down by nearby enemies force, eradicate them and find the next base."
+localizedName: "Over the ski"
+description: "Enemies rain hell from above, prepare your anti air and watch them fall."
 sector: 71
 difficulty: 6
-research: {
-parent: gate-bombardment
-objectives: [
-{
-type: SectorComplete
-preset: "Isolated"
-}
-]
-} 
+research: core-key
 enemyBase: true
   allowLaunchLoadout: true,
   allowLaunchSchematics: true,
