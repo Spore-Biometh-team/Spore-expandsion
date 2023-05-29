@@ -1,4 +1,4 @@
-name: "Gate - Bombardment"
+name: "Gate: Bombardment"
 description: "The gate to the attack sectors of sporus."
 type: CoreBlock
 planet: sporus
@@ -8,5 +8,16 @@ size: 3
 unitType: vela
 unitCapModifier: 69420
 research: "Isolated"
-researchCostMultiplier: 0
-category: effect
+requirements: [
+sporepod-biomass/350
+]
+researchCostMultiplier: 1
+research: {
+parent: Isolated
+objectives: [
+{
+type: SectorComplete
+preset: "Isolated"
+}
+]
+}
