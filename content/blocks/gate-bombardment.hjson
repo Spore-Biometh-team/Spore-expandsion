@@ -2,6 +2,7 @@ name: "Gate: Bombardment"
 description: "The gate to the attack sectors of sporus."
 type: CoreBlock
 planet: sporus
+hidden: true
 health: 69420
 itemCapacity: 69420
 size: 3
