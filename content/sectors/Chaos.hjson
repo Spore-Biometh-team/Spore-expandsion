@@ -2,7 +2,7 @@ localizedName: "Down to the core"
 description: "An volcano that have been fending off zerg for thousand of years... until the zerg finally breach through. Protect the mountain from the zerg and restore the planet. "
 planet: sporus
 sector: 48
-captureWave: 15
+captureWave: 45
 research: {
 parent: gate-madness
 objectives: [
