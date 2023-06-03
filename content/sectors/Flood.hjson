@@ -4,15 +4,9 @@ planet: sporus
 sector: 121
 captureWave: 15
 research: {
-parent: Overski
-objectives: [
-{
-type: SectorComplete
-preset: Overski
-}
-]
+parent: core-key
 } 
-alwaysUnlocked: false
+alwaysUnlocked: true
 difficulty: 2
   allowLaunchLoadout: true
   allowLaunchSchematics: true
