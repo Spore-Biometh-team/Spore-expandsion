@@ -1,0 +1,18 @@
+localizedName: "Down to the core"
+description: "An volcano that have been fending off zerg for thousand of years... until the zerg finally breach through. Protect the mountain from the zerg and restore the planet. "
+planet: sporus
+sector: 121
+captureWave: 15
+research: {
+parent: Overski
+objectives: [
+{
+type: SectorComplete
+preset: Overski
+}
+]
+} 
+alwaysUnlocked: false
+difficulty: 2
+  allowLaunchLoadout: true
+  allowLaunchSchematics: true
