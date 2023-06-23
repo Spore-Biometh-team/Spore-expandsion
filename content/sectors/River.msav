@@ -1,8 +1,8 @@
 planet: sporus
 localizedName: "River"
 description: "A New type of hive have been detected in this reinforced area, Destroy it and search for the origin of this infestion."
-sector: 121
-difficulty: 5
+sector: 63
+difficulty: 7
 research: {
 parent: Pin
 objectives: [
