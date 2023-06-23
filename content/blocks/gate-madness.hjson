@@ -2,7 +2,7 @@ name: "Gate: madness"
 description: "Unlock the chaotic section of sporus."
 type: CoreBlock
 planet: sporus
-buildVisibility: hidden
+buildVisibility: debugOnly
 health: 69420
 itemCapacity: 69420
 size: 3
