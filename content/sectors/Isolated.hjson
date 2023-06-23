@@ -13,5 +13,5 @@ preset: "Overski"
 ]
 } 
 enemyBase: true
-  allowLaunchLoadout: true,
-  allowLaunchSchematics: true,
+  allowLaunchLoadout: true
+  allowLaunchSchematics: true

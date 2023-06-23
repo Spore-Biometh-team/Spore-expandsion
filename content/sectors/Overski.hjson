@@ -14,5 +14,5 @@ preset: Flood
 } 
 alwaysUnlocked: false
 enemyBase: true
-  allowLaunchLoadout: true,
-  allowLaunchSchematics: true,
+  allowLaunchLoadout: true
+  allowLaunchSchematics: true

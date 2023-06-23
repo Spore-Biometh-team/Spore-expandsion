@@ -13,5 +13,5 @@ preset: "Isolated"
 ]
 } 
 enemyBase: true
-  allowLaunchLoadout: true,
-  allowLaunchSchematics: true,
+  allowLaunchLoadout: true
+  allowLaunchSchematics: true
