@@ -1,0 +1,17 @@
+planet: sporus
+localizedName: "Desert"
+description: "The zerg are trying to survive and adapt in the uninfested area, Preparing the launch an attack on Serpulo, you need to prevent them to do so at all cost."
+sector: 76
+difficulty: 7
+research: {
+parent: Pin
+objectives: [
+{
+type: SectorComplete
+preset: "Pin"
+}
+]
+} 
+enemyBase: true
+  allowLaunchLoadout: true
+  allowLaunchSchematics: true
