@@ -6,4 +6,5 @@ version: 1.10
 minGameVersion: 144
 dependencies: [
   sporepod
+  magnification
 ]
