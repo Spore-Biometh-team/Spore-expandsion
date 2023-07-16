@@ -1,7 +1,7 @@
 name: sporex
 displayName: Spore biometh plus
 author: Water molecues
-description: Expansion for spore biometh
+description: "Expansion for spore biometh, required mods: spore biomech (duh) and magnification"
 version: 1.10
 minGameVersion: 144
 dependencies: [
