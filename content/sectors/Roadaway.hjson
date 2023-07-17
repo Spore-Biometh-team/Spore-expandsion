@@ -1,0 +1,18 @@
+localizedName: "Roadaway"
+description: "An intersection in the middle of the desert, used to be full of traveller who visited this planet, now it's just an empty husk of itself.Defend yourself against an endless wave of reinfrontment and bring this infestion to an end."
+planet: sporus
+sector: 121
+captureWave: 50
+research: {
+parent: "gate-madness"
+objectives: [
+    {
+      type: SectorComplete
+      preset: "Beastcav"
+    }
+  ]
+}
+alwaysUnlocked: false
+difficulty: 8
+  allowLaunchLoadout: true
+  allowLaunchSchematics: true
