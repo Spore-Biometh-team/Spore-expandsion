@@ -3,16 +3,16 @@ localizedName: "Over the ski"
 description: "Enemies rain hell from above, prepare your anti air and watch them fall."
 sector: 96
 difficulty: 6
+captureWave: 25
 research: {
-parent: Flood
-objectives: [
-{
-type: SectorComplete
-preset: Flood
-}
-]
+  parent: Flood
+  objectives: [
+    {
+      type: SectorComplete
+      preset: Flood
+    }
+  ]
 } 
 alwaysUnlocked: false
-enemyBase: true
-  allowLaunchLoadout: true
-  allowLaunchSchematics: true
+allowLaunchLoadout: true
+allowLaunchSchematics: true

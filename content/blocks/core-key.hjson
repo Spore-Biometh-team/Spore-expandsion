@@ -1,5 +1,4 @@
-name: key
-description: "GUYS WE FOUND IT, WE FOUND THE KEY"
+name: Sporus planet
 type: CoreBlock
 planet: sporus
 buildVisibility: debugOnly
@@ -9,9 +8,9 @@ size: 3
 unitType: vela
 unitCapModifier: 69420
 research: {
-root: true
-name: "sporus"
-requiresUnlock: false
-planet: sporus
+  root: true
+  name: "Sporus"
+  requiresUnlock: false
+  planet: Sporus
 }
 researchCostMultiplier: 0
