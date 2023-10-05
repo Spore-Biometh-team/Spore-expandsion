@@ -14,5 +14,5 @@ objectives: [
 }
 alwaysUnlocked: false
 difficulty: 10
-  allowLaunchLoadout: true
-  allowLaunchSchematics: true
+allowLaunchLoadout: true
+allowLaunchSchematics: true

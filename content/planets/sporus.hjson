@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: sporus
+localizedName: Sporus
 description: plant
 #always unlocked
 alwaysUnlocked: true
@@ -87,6 +87,7 @@ radius: 1
 minZoom: 0.5
 # Whether to draw the orbit.
 drawOrbit: true
+orbitRadius: 27
 # Atmosphere offset.
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
